@@ -1,11 +1,4 @@
 [
-    
-    {
-        "Email": "alexa@example.com",
-        "Name": "Atest Johnson",
-        "PersonalId": 54328,
-        "PositionId": 1
-    },
     {
         "Email": "alex@example.com",
         "Name": "Alex Johnson",
